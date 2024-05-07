@@ -50,10 +50,4 @@ python visualize.py voc ./images/ ./xml/ --out ./out/ --thickness 1
 
 
 
-### Screenshot
-![1](./sample/boxWH.png)
-![2](./sample/AnchorBoxRatio.png)
-![3](./sample/EachClassNum.png)
-![4](./sample/EachClassNumPie.png)
-
 

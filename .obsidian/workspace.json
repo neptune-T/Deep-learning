@@ -38,8 +38,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
+                "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             },
@@ -56,7 +57,7 @@
           {
             "id": "01bd45cbafc7c29d",
             "type": "tabs",
-            "dimension": 27.42248062015504,
+            "dimension": 47.74509803921569,
             "children": [
               {
                 "id": "582933a2686d717c",
@@ -64,7 +65,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md"
+                    "file": "README.md"
                   }
                 },
                 "group": "cd67f3c74d774047"
@@ -74,7 +75,7 @@
           {
             "id": "7cc4d8ee9e9453ce",
             "type": "tabs",
-            "dimension": 72.57751937984496,
+            "dimension": 52.254901960784316,
             "children": [
               {
                 "id": "25a0a1d5712a14ce",
@@ -82,7 +83,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md"
+                    "file": "README.md"
                   }
                 }
               }
@@ -139,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 550.5
   },
   "right": {
     "id": "5498254ad8752fc3",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md"
+                "file": "README.md"
               }
             }
           }
@@ -213,30 +214,40 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "cf5fbce60e87a79d",
+  "active": "4cd604789b64b238",
   "lastOpenFiles": [
+    "工具代码/DataAnalyze/README.md",
+    "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/tractorWH.png",
+    "工具代码/DataAnalyze/out/img/EachImageBboxNum.png",
+    "工具代码/DataAnalyze/out/img/SizeBboxNum.png",
+    "工具代码/DataAnalyze/out/img/imageWH.png",
+    "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/patientWH.png",
+    "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/cornWH.png",
+    "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/bombWH.png",
+    "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/blockWH.png",
+    "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
+    "202405072359.md",
     "模型训练实践经验分享（智能车完全模型）/algorithm/Sampling and Monte Carlo ：Generating Random Number.md",
+    "模型训练实践经验分享（智能车完全模型）/超参数调试、正则化以及优化（Hyperparameter tuning, Regularization and Optimization）.md",
+    "模型训练实践经验分享（智能车完全模型）/模型结构.md",
+    "模型训练实践经验分享（智能车完全模型）/数据增强（Data Augmentation）.md",
+    "深度学习理论/3.神经网络/1.浅层神经网络(Shallow neural networks).md",
+    "深度学习理论/3.神经网络/2.深层神经网络(Deep Neural Networks).md",
+    "202405072346.md",
     "模型训练实践经验分享（智能车完全模型）/algorithm/VersatileRandomSampler.py",
     "模型训练实践经验分享（智能车完全模型）/VersatileRandomSampler.py",
     "VersatileRandomSampler.py",
     "images/c1be01f7a02dd56ff430f727171e91f.png",
     "images/091a31b5edcca9ef892c84bc2f16e05.png",
-    "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
     "模型训练实践经验分享（智能车完全模型）/algorithm",
-    "images/4f36699d9b60aafb9a9ff75699d88ff.png",
-    "Pasted image 20240506200033.png",
-    "深度学习理论/3.神经网络/1.浅层神经网络(Shallow neural networks).md",
     "深度学习理论/2.线性回归/1.简述线性神经网络和监督学习(Supervised Learning with Linear Neural Networks).md",
     "深度学习理论/2.线性回归/2.逻辑回归(logistic regression）.md",
     "深度学习理论/1.深度学习引言(Introduction to Deep Learning)/神经网络和深度学习(Neural Networks and Deep Learning).md",
-    "images/d6ad0b52931da4646f09f6cb544aeb3.png",
     "模型训练实践经验分享（智能车完全模型）/转换数据.md",
-    "模型训练实践经验分享（智能车完全模型）/详细分析数据.md",
-    "模型训练实践经验分享（智能车完全模型）/数据增强（Data Augmentation）.md",
-    "模型训练实践经验分享（智能车完全模型）/模型结构.md",
-    "模型训练实践经验分享（智能车完全模型）/超参数调试、正则化以及优化（Hyperparameter tuning, Regularization and Optimization）.md"
+    "模型训练实践经验分享（智能车完全模型）/详细分析数据.md"
   ]
 }
