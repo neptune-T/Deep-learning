@@ -23,7 +23,7 @@ cv2.waitKey(0)
 
 `opencv`对颜色的存贮顺序是`BGR`与平时常见的顺序相反。当显示器显示这张图片的时候，计算机会依次取出这张图片的3张灰度图像，分别投影到显示器的蓝色，绿色和红色的LED芯片之上，从而渲染彩色画面。
 
-![image-20231201211340186](/home/plote/.config/Typora/typora-user-images/image-20231201211340186.png)
+
 
 这里我们需要取出照片的`RGB`3色，只需要将第三维数值打出来就好了。
 
@@ -44,7 +44,7 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 cv2.imshow('gray', gray)
 ```
 
-![image-20231202194529980](/home/plote/.config/Typora/typora-user-images/image-20231202194529980.png)
+
 
 #### 图像的剪切
 
