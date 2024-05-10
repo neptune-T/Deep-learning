@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-05-08 0.30.md",
+                "file": "journal/2024-05-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-05-08 0.30.md",
+                "file": "journal/2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-05-08 0.30.md",
+                "file": "journal/2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-05-08 0.30.md"
+                "file": "journal/2024-05-09.md"
               }
             }
           }
@@ -183,8 +183,8 @@
   },
   "active": "0c5f602fb15e2e44",
   "lastOpenFiles": [
-    "journal/2024-05-09 12：43.md",
     "journal/2024-05-08 0.30.md",
+    "journal/2024-05-09.md",
     "journal/202405091242.md",
     "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
     "模型训练实践经验分享（智能车完全模型）/algorithm/Sampling and Monte Carlo ：Generating Random Number.md",
