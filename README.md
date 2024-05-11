@@ -284,14 +284,15 @@ sudo make install
 ## 所需要的配置（windows11）
 
 #### 安装驱动
-在自己电脑上查询电脑型号,[官网查询该电脑型号对应的驱动，搜索并下载驱动](https://link.zhihu.com/?target=https%3A//www.nvidia.cn/Download/index.aspx%3Flang%3Dcn)
+在自己电脑上查询电脑型号,[官网查询该电脑型号对应的驱动，搜索并下载驱动](https://www.nvidia.cn/Download/index.aspx?lang=cn)
 
 选择对应版本，安装完驱动后，在Windows 搜索框中输入cmd,打开命令提示符终端。打开终端后，输入 nvidia-smi，如果有如下图所示的结果，就说明NVIDIA驱动安装成功了。
 
 #### 安装cudn
 首先，确保已成功安装英伟达显卡驱动。
 
-CUDA驱动官网直达 [**CUDA Toolkit Archive**]([CUDA Toolkit Archive | NVIDIA Developer](https://developer.nvidia.com/cuda-toolkit-archive/)
+CUDA驱动官网直达 [CUDA Toolkit Archive](https://developer.nvidia.com/cuda-toolkit-archive/)
+
 选择需要的cuda版本号，下载后点击exe文件运行，可以使用默认路径，一路默认安装，安装成功后关闭。在电脑环境变量里面找到（没有的话确保下载后新建）（这里的x指的自己下载的版本号）：
 ```
 CUDA PATH             C:\Program Files\NVIDIA GPU\Computing\Toolkit\CUDA\v1x.x  

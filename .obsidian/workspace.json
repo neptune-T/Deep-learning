@@ -6,6 +6,7 @@
       {
         "id": "2fca0977af6b528b",
         "type": "tabs",
+        "dimension": 79.23497267759562,
         "children": [
           {
             "id": "0c5f602fb15e2e44",
@@ -40,6 +41,7 @@
       {
         "id": "c8c867ad5eaedb53",
         "type": "tabs",
+        "dimension": 20.76502732240437,
         "children": [
           {
             "id": "ce75237413f29372",
@@ -180,11 +182,15 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "ce75237413f29372",
+  "active": "d0efec3ba3934e6e",
   "lastOpenFiles": [
+    "cuDNN.md",
+    "README.md",
+    "CUDA.md",
+    "[CUDA.md",
+    "journal/2024-05-09.md",
     "模型训练实践经验分享（智能车完全模型）/数据分析/数据集分析.md",
     "模型训练实践经验分享（智能车完全模型）/数据分析/详细分析数据.md",
-    "journal/2024-05-09.md",
     "journal/2024-05-08 0.30.md",
     "journal/202405091242.md",
     "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
