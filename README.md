@@ -280,3 +280,43 @@ sudo make install
  pkg-config --modversion opencv4
  python3 -c "import cv2; print(cv2.__version__)"
 ```
+
+## 所需要的配置（windows11）
+
+#### 安装驱动
+在自己电脑上查询电脑型号,[官网查询该电脑型号对应的驱动，搜索并下载驱动](https://link.zhihu.com/?target=https%3A//www.nvidia.cn/Download/index.aspx%3Flang%3Dcn)
+
+选择对应版本，安装完驱动后，在Windows 搜索框中输入cmd,打开命令提示符终端。打开终端后，输入 nvidia-smi，如果有如下图所示的结果，就说明NVIDIA驱动安装成功了。
+
+#### 安装cudn
+首先，确保已成功安装英伟达显卡驱动。
+
+CUDA驱动官网直达 [**CUDA Toolkit Archive**]([CUDA Toolkit Archive | NVIDIA Developer](https://developer.nvidia.com/cuda-toolkit-archive/)
+选择需要的cuda版本号，下载后点击exe文件运行，可以使用默认路径，一路默认安装，安装成功后关闭。在电脑环境变量里面找到（没有的话确保下载后新建）（这里的x指的自己下载的版本号）：
+```
+CUDA PATH             C:\Program Files\NVIDIA GPU\Computing\Toolkit\CUDA\v1x.x  
+CUDA PATH V12_3   C:Program Files\NVIDIA GPU Computing Toolkit\CUDA\v1x.x
+```
+
+重新进入cmd窗口， 运行nvcc -V 若出现CUDA对应的版本号即可。
+
+#### 安装cudnn
+参考官网链接直达，[GPU、CUDA 工具包和 CUDA 驱动程序要求](https://docs.nvidia.com/deeplearning/cudnn/support-matrix/index.html](https://link.zhihu.com/?target=https%3A//docs.nvidia.com/deeplearning/cudnn/support-matrix/index.html)
+
+cudnn（即 CUDA Deep Neural Network 软件库），这是一个 GPU 加速的深度神经网络基元库。
+可以自行选择。[官方安装](cuDNN 9.1.1 下载 |NVIDIA 开发人员](https://developer.nvidia.com/cudnn-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
+
+##### 设置环境
+在电脑中打开环境变量，在系统path下面新添加以下变量，注意路径需要和自己本地 cuda 安装路径一致。：
+
+```
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.x\bin
+
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.x\libnvvp
+
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.x\include
+
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.x\lib
+```
+
+进入cmd窗口，输入nvcc -V 验证cuda和cudnn是否安装成功。
