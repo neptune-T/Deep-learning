@@ -6,7 +6,7 @@
       {
         "id": "2fca0977af6b528b",
         "type": "tabs",
-        "dimension": 79.23497267759562,
+        "dimension": 62.58949880668258,
         "children": [
           {
             "id": "0c5f602fb15e2e44",
@@ -27,32 +27,71 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/数据集分析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "391f5f62a5dbde1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模型训练实践经验分享（智能车完全模型）/数据蒸馏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "451cd7a0f935d6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模型训练实践经验分享（智能车完全模型）/优化算法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebc6c9b9f5a3859e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模型训练实践经验分享（智能车完全模型）/问题总结.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             },
-            "group": "fd12ef4424955fab"
+            "group": "6abf1f41094edb87"
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
-        "id": "c8c867ad5eaedb53",
+        "id": "8468b72b23d5e8a5",
         "type": "tabs",
-        "dimension": 20.76502732240437,
+        "dimension": 37.41050119331742,
         "children": [
           {
-            "id": "ce75237413f29372",
+            "id": "eb8c4e35eabe5549",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "模型训练实践经验分享（智能车完全模型）/问题总结.md"
               }
             },
-            "group": "fd12ef4424955fab"
+            "group": "6abf1f41094edb87"
           }
         ]
       }
@@ -120,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "模型训练实践经验分享（智能车完全模型）/问题总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "模型训练实践经验分享（智能车完全模型）/问题总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "模型训练实践经验分享（智能车完全模型）/问题总结.md"
               }
             }
           }
@@ -182,20 +221,29 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "d0efec3ba3934e6e",
+  "active": "ebc6c9b9f5a3859e",
   "lastOpenFiles": [
-    "cuDNN.md",
+    "202405131945.md",
+    "模型训练实践经验分享（智能车完全模型）/问题总结.md",
+    "模型训练实践经验分享（智能车完全模型）/优化算法.md",
+    "模型训练实践经验分享（智能车完全模型）/数据蒸馏.md",
+    "paper/1277_dataset_distillation_via_facto.pdf",
+    "paper/1277_dataset_distillation_via_facto.pdf.crdownload",
+    "paper",
+    "新建文件夹",
+    "模型训练实践经验分享（智能车完全模型）/数据分析/数据集分析.md",
+    "模型训练实践经验分享（智能车完全模型）/数据分析/详细分析数据.md",
+    "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
     "README.md",
+    "book/普林斯顿数学指南.pdf",
+    "cuDNN.md",
     "CUDA.md",
     "[CUDA.md",
     "journal/2024-05-09.md",
-    "模型训练实践经验分享（智能车完全模型）/数据分析/数据集分析.md",
-    "模型训练实践经验分享（智能车完全模型）/数据分析/详细分析数据.md",
     "journal/2024-05-08 0.30.md",
     "journal/202405091242.md",
     "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
     "模型训练实践经验分享（智能车完全模型）/algorithm/Sampling and Monte Carlo ：Generating Random Number.md",
-    "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
     "模型训练实践经验分享（智能车完全模型）/超参数调试、正则化以及优化（Hyperparameter tuning, Regularization and Optimization）.md",
     "深度学习理论/3.神经网络/2.深层神经网络(Deep Neural Networks).md",
     "深度学习理论/3.神经网络/1.浅层神经网络(Shallow neural networks).md",
@@ -211,7 +259,6 @@
     "未命名.canvas",
     "home/plote",
     "home",
-    "工具代码/DataAnalyze/README.md",
     "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/tractorWH.png",
     "工具代码/DataAnalyze/out/img/EachImageBboxNum.png",
     "工具代码/DataAnalyze/out/img/SizeBboxNum.png",
@@ -220,13 +267,8 @@
     "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/cornWH.png",
     "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/bombWH.png",
     "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/blockWH.png",
-    "202405072359.md",
-    "202405072346.md",
     "模型训练实践经验分享（智能车完全模型）/algorithm/VersatileRandomSampler.py",
-    "模型训练实践经验分享（智能车完全模型）/VersatileRandomSampler.py",
-    "VersatileRandomSampler.py",
     "images/c1be01f7a02dd56ff430f727171e91f.png",
-    "images/091a31b5edcca9ef892c84bc2f16e05.png",
-    "模型训练实践经验分享（智能车完全模型）/algorithm"
+    "images/091a31b5edcca9ef892c84bc2f16e05.png"
   ]
 }
