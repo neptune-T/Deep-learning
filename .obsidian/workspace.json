@@ -106,7 +106,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-05-09.md",
+                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/数据增强（Data Augmentation）.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83ecca4b63645759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "8468b72b23d5e8a5",
@@ -198,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-05-09.md",
+                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-05-09.md",
+                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-05-09.md"
+                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md"
               }
             }
           }
@@ -260,8 +273,24 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "47e7b99ffe8ab16b",
+  "active": "83ecca4b63645759",
   "lastOpenFiles": [
+    "模型训练实践经验分享（智能车完全模型）/数据分析/数据分析步骤.md",
+    "模型训练实践经验分享（智能车完全模型）/数据分析/数据集分析.md",
+    "模型训练实践经验分享（智能车完全模型）/数据分析/数据增强（Data Augmentation）.md",
+    "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
+    "模型训练实践经验分享（智能车完全模型）/超参数调试、正则化以及优化（Hyperparameter tuning, Regularization and Optimization）.md",
+    "模型训练实践经验分享（智能车完全模型）/论文之中学习的优化思路.md",
+    "模型训练实践经验分享（智能车完全模型）/模型优化思路.md",
+    "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
+    "模型训练实践经验分享（智能车完全模型）/数据分析/详细分析数据.md",
+    "模型训练实践经验分享（智能车完全模型）/优化算法.md",
+    "模型训练实践经验分享（智能车完全模型）/问题总结.md",
+    "模型训练实践经验分享（智能车完全模型）/数据蒸馏.md",
+    "模型训练实践经验分享（智能车完全模型）/后处理.md",
+    "journal/2024-05-21 19：46.md",
+    "journal/2024-05-09-12：42.md",
+    "journal/2024-05-09.md",
     "journal/2024-05-08 0.30.md",
     "images/1.png",
     "深度学习理论/3.神经网络/2.深层神经网络(Deep Neural Networks).md",
@@ -273,33 +302,18 @@
     "工具代码/DataAnalyze/out/img/AnchorBoxRatio.png",
     "工具代码/DataAnalyze/out/img/bboxWH.png",
     "工具代码/DataAnalyze/out/img/EachCategoryBboxWH/blockWH.png",
-    "模型训练实践经验分享（智能车完全模型）/后处理.md",
-    "未命名.md",
-    "模型训练实践经验分享（智能车完全模型）/优化算法.md",
-    "模型训练实践经验分享（智能车完全模型）/问题总结.md",
-    "模型训练实践经验分享（智能车完全模型）/数据蒸馏.md",
-    "模型训练实践经验分享（智能车完全模型）/数据增强（Data Augmentation）.md",
-    "模型训练实践经验分享（智能车完全模型）/模型优化思路.md",
-    "模型训练实践经验分享（智能车完全模型）/论文之中学习的优化思路.md",
     "images/Pasted image 20240513205150 1.png",
-    "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
-    "模型训练实践经验分享（智能车完全模型）/超参数调试、正则化以及优化（Hyperparameter tuning, Regularization and Optimization）.md",
     "images/Pasted image 20240513205150.png",
     "202405131945.md",
     "paper/1277_dataset_distillation_via_facto.pdf",
     "paper/1277_dataset_distillation_via_facto.pdf.crdownload",
     "paper",
     "新建文件夹",
-    "模型训练实践经验分享（智能车完全模型）/数据分析/数据集分析.md",
-    "模型训练实践经验分享（智能车完全模型）/数据分析/详细分析数据.md",
-    "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
     "README.md",
     "book/普林斯顿数学指南.pdf",
     "cuDNN.md",
     "CUDA.md",
     "[CUDA.md",
-    "journal/2024-05-09.md",
-    "journal/202405091242.md",
     "模型训练实践经验分享（智能车完全模型）/数据分析",
     "journal",
     "未命名.canvas",
