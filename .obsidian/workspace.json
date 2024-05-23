@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/数据分析步骤.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/数据分析步骤.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/数据分析步骤.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模型训练实践经验分享（智能车完全模型）/数据分析/数据分析步骤.md"
+                "file": "README.md"
               }
             }
           }
@@ -275,9 +275,9 @@
   },
   "active": "83ecca4b63645759",
   "lastOpenFiles": [
+    "模型训练实践经验分享（智能车完全模型）/数据分析/数据分析步骤.md",
     "模型训练实践经验分享（智能车完全模型）/数据分析/数据集分析.md",
     "模型训练实践经验分享（智能车完全模型）/数据分析/转换数据.md",
-    "模型训练实践经验分享（智能车完全模型）/数据分析/数据分析步骤.md",
     "模型训练实践经验分享（智能车完全模型）/数据分析/数据增强（Data Augmentation）.md",
     "模型训练实践经验分享（智能车完全模型）/1.训练的大致流程.md",
     "模型训练实践经验分享（智能车完全模型）/超参数调试、正则化以及优化（Hyperparameter tuning, Regularization and Optimization）.md",

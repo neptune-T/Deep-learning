@@ -308,7 +308,7 @@ cudnn（即 CUDA Deep Neural Network 软件库），这是一个 GPU 加速的�
 可以自行选择。[官方安装](cuDNN 9.1.1 下载 |NVIDIA 开发人员](https://developer.nvidia.com/cudnn-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
 
 ##### 设置环境
-在电脑中打开环境变量，在系统path下面新添加以下变量，注意路径需要和自己本地 cuda 安装路径一致。：
+在电脑中打开环境变量，在系统path下面新添加以下变量，注意路径需要和自己本地 cuda 安装路径一致：
 
 ```
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.x\bin
