@@ -27,6 +27,7 @@
 待到对基础架构有了一定的了解，再适时回顾那些数学公式的推导，你会发现自己的理解更加精确、全面。这种学习方式，既保证了知识的实际应用，也提升了理论的掌握深度，让每一步都更为恰当和充实。
 
 纸上得来终觉浅 绝知此事要躬行
+
 What you get on paper is ultimately shallow, but you know you have to do it in earnest.
 - - -
 ## 学习资源
